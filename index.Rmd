@@ -1,0 +1,14 @@
+---
+title: "Interactive Dot Product Documentation"
+author: "Rob"
+date: "August 6, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Instructions
+
+In this app you will enter two vectors as comma separated lists, in order to interactively compute their componenwise product and dot product.
